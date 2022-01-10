@@ -1,2 +1,2 @@
 console.log("macss")
-console.log("ctybe")
+console.log("mtnnn")
