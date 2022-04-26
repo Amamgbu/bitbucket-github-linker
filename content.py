@@ -1,2 +1,1 @@
 print("ehmdh")
-print("frcdd")
